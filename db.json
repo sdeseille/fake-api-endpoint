@@ -1,0 +1,16 @@
+{
+  "data": {
+      "secretId" : "ocid1.vaultsecret.oc1.iad.exampleaz5qacpqadubrc4wwugrqmw5dnyzvcxwzds6er5enn2oamexample",
+      "timeCreated" : "2020-03-18T16:51:38.851Z",
+      "versionNumber" : 1,
+      "versionName" : null,
+      "secretBundleContent" : {
+        "contentType" : "BASE64",
+        "content" : "VGhpc0lzTXlQd2Q="
+    },
+    "timeOfDeletion" : null,
+    "timeOfExpiry" : null,
+    "stages" : [ "CURRENT", "LATEST" ],
+    "metadata" : null
+  }
+}
